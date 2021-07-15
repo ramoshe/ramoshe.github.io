@@ -1,37 +1,18 @@
-## Ramoshe GitHub Page
+# Ramoshe GitHub Home Page
 
-You can use the [editor on GitHub](https://github.com/ramoshe/proj3-FSJS-interactiveForm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the homepage for all of my GitHub repositories. Currently they consist of my projects for the Full Stack JavaScript Techdegree program at Treehouse. To learn more about the program, see the link in the Notes section below.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Links to Projects:
+ - [Project 1: Quote Generator](http://g.ramoshe.com/proj1-quoteGenerator/)
+ - [Project 2: Interactive Form](http://g.ramoshe.com/proj2-interactiveForm)
+ - [Project 3: Data Pagination and Filtering](http://g.ramoshe.com/proj3-dataPagAndFilter)
+ - [Project 4: Object Oriented Programming Game](http://g.ramoshe.com/proj4-oopGame)
+ - [Project 5: Public API Requests](http://g.ramoshe.com/proj5-piblicAPIRequests)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Notes
+[Treehouse Techdegree Program](https://teamtreehouse.com/techdegree)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ramoshe/proj3-FSJS-interactiveForm/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For reminders on markdown syntax for this page:
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
