@@ -11,7 +11,7 @@ This is the homepage for all of my GitHub repositories. Currently they consist o
  - [Project 5: Public API Requests](http://g.ramoshe.com/proj5-publicAPIRequests)
 
 
-### Notes
+## Notes
 [Treehouse Techdegree Program](https://teamtreehouse.com/techdegree)
 
 For reminders on markdown syntax for this page:
