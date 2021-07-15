@@ -5,10 +5,10 @@ This is the homepage for all of my GitHub repositories. Currently they consist o
 
 ## Links to Projects:
  - [**Project 1:** Quote Generator](http://g.ramoshe.com/proj1-quoteGenerator/)
- - [*Unit 2 Mini Project: RSVP App](http://g.ramoshe.com/unit2-RSVPapp/)
+ - [*Unit 2 Mini Project: RSVP App*](http://g.ramoshe.com/unit2-RSVPapp/)
  - [**Project 2:** Data Pagination and Filtering](http://g.ramoshe.com/proj2-dataPagAndFilter)
  - [**Project 3:** Interactive Form](http://g.ramoshe.com/proj3-interactiveForm)
- - [*Unit 4 Mini Project: Four In A Row](http://g.ramoshe.com/unit4-fourInARow/)
+ - [*Unit 4 Mini Project: Four In A Row*](http://g.ramoshe.com/unit4-fourInARow/)
  - [**Project 4**: Object Oriented Programming Game](http://g.ramoshe.com/proj4-OOPGame)
  - [**Project 5:** Public API Requests](http://g.ramoshe.com/proj5-publicAPIRequests)
 
