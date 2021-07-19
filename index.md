@@ -11,6 +11,7 @@ This is the homepage for all of my GitHub repositories. Currently they consist o
  - [*Unit 4 Mini Project: Four In A Row*](http://g.ramoshe.com/unit4-fourInARow/)
  - [**Project 4**: Object Oriented Programming Game](http://g.ramoshe.com/proj4-OOPGame)
  - [**Project 5:** Public API Requests](http://g.ramoshe.com/proj5-publicAPIRequests)
+ - [*Unit 6 Mini Project: Flashcards*](http://g.ramoshe.com/unit6-flashcards/)
 
 
 ## Notes
