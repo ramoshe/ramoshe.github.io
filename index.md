@@ -13,8 +13,8 @@ This is the homepage for all of my GitHub repositories. Currently they consist o
    - [Repository](https://github.com/ramoshe/unit2-RSVPapp)
 
  - **Project 2:** Data Pagination and Filtering
-   - [Live Page](https://g.ramoshe.com/proj2-dataPagAndFilter)
-   - [Repository](https://github.com/ramoshe/proj2-dataPagAndFilter)
+   - [Live Page](https://g.ramoshe.com/proj2-dataPagFilter)
+   - [Repository](https://github.com/ramoshe/proj2-dataPagFilter)
 
  - **Project 3:** Interactive Form
    - [Live Page](https://g.ramoshe.com/proj3-interactiveForm)
