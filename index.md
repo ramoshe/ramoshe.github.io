@@ -5,35 +5,35 @@ This is the homepage for all of my GitHub repositories. Currently they consist o
 
 ## Links to Projects:
  - **Project 1:** Quote Generator
-   - [Live Page](http://g.ramoshe.com/proj1-quoteGenerator/)
+   - [Live Page](https://g.ramoshe.com/proj1-quoteGenerator/)
    - [Repository](https://github.com/ramoshe/proj1-quoteGenerator)
 
  - *Unit 2 Mini Project: RSVP App*
-   - [Live Page](http://g.ramoshe.com/unit2-RSVPapp/)
+   - [Live Page](https://g.ramoshe.com/unit2-RSVPapp/)
    - [Repository](https://github.com/ramoshe/unit2-RSVPapp)
 
  - **Project 2:** Data Pagination and Filtering
-   - [Live Page](http://g.ramoshe.com/proj2-dataPagAndFilter)
+   - [Live Page](https://g.ramoshe.com/proj2-dataPagAndFilter)
    - [Repository](https://github.com/ramoshe/proj2-dataPagAndFilter)
 
  - **Project 3:** Interactive Form
-   - [Live Page](http://g.ramoshe.com/proj3-interactiveForm)
+   - [Live Page](https://g.ramoshe.com/proj3-interactiveForm)
    - [Repository](https://github.com/ramoshe/proj3-interactiveForm)
 
  - *Unit 4 Mini Project: Four In A Row*
-   - [Live Page](http://g.ramoshe.com/unit4-fourInARow)
+   - [Live Page](https://g.ramoshe.com/unit4-fourInARow)
    - [Repository](https://github.com/ramoshe/unit4-fourInARow)
 
  - **Project 4**: Object Oriented Programming Game
-   - [Live Page](http://g.ramoshe.com/proj4-OOPGame)
+   - [Live Page](https://g.ramoshe.com/proj4-OOPGame)
    - [Repository](https://github.com/ramoshe/proj4-OOPGame)
 
  - **Project 5:** Public API Requests
-   - [Live Page](http://g.ramoshe.com/proj5-publicAPIRequests)
+   - [Live Page](https://g.ramoshe.com/proj5-publicAPIRequests)
    - [Repository](https://github.com/ramoshe/proj5-publicAPIRequests)
 
  - *Unit 6 Mini Project: Flashcards*
-   - [Live Page](http://g.ramoshe.com/unit6-flashcards/)
+   - [Live Page](https://g.ramoshe.com/unit6-flashcards/)
    - [Repository](https://github.com/ramoshe/unit6-flashcards)
 
 
