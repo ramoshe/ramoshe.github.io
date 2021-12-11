@@ -48,7 +48,7 @@ This is the homepage for all of my GitHub repositories. Currently they consist o
    - [Live Page](https://g.ramoshe.com/thp7-reactGallery)
    - [Repository](https://github.com/ramoshe/thp7-reactGallery)
 
-  - **Project 8: SQL Library Manager**
+ - **Project 8: SQL Library Manager**
    - [Live Page](https://thp8-sqllibrarymanager.herokuapp.com)
    - [Repository](https://github.com/ramoshe/thp8-SQLLibraryManager)
 
