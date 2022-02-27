@@ -36,7 +36,7 @@ This is the homepage for all of my GitHub repositories. Currently they consist o
    - [Live Page](https://thu6-flashcards.herokuapp.com)
    - [Repository](https://github.com/ramoshe/thu6-flashcards)
 
- - **Project 6:** Public API Requests
+ - **Project 6:** Static Node & Express Site
    - [Live Page](https://thp6-staticnodeexpress.herokuapp.com)
    - [Repository](https://github.com/ramoshe/thp6-staticNodeExpress)
 
